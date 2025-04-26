@@ -1,10 +1,10 @@
-  
-![][image1]
+**TIGER SUSHI PROJECT BINDER
+
+TEAM G**
 
 Team Members:
 
 | Ryan Overbeck | 513-882-5177 |
-| :---: | :---: |
 | Caroline Pitfield | 404-277-1237 |
 | Brandon Yum | 404-621-3617 |
 | Yulianna Pazymino | 781-606-4494 |
@@ -119,6 +119,8 @@ Team Members:
 
    1. Creating a wireframe for Tiger Sushi’s website that focuses on key information such as the menu, hours, specials, FAQs, and will provide several benefits. For the tangible benefits, the wireframe serves as a strategic planning tool to help Tiger Sushi visualize how the content of the website can be organized and accessed. This will reduce developmental time of the website, which will help implementation be faster and more cost-effective in the future. The expected value is high for creating the wireframe, as it not only saves time and money, but it also lays out the groundwork for improving customer experience and engagement through having a comprehensive and information wireframe. For intangible benefits, the wireframe can support organization and decision making for stakeholders on what their potential website could look like. This enhances cross-functional communication between different stakeholders which improves collaboration to create a better user experience and create a clearer brand message. The value of this stems from having a structured planning process to implement the wireframe. From a cost perspective, the wireframe requires minimal financial outlay. For internal labor, this involves creating the design and content of the wireframe which approximately involves 5-10 hours of creating at an average of $25/hr for a total of $125 to $250. As this project does not require specific software or tools for website building, there are no external consultants. Thus, creating the wireframe creates a valuable impact as it will support future phases of implementation and provides a strong foundation. 
 
+<img width="527" alt="Screenshot 2025-04-26 at 1 19 45 PM" src="https://github.com/user-attachments/assets/60d21d3c-aae0-40ff-bc79-53c33ffa27ef" />
+
       
 
 5. # **Project Stakeholders**  {#project-stakeholders}
@@ -129,20 +131,24 @@ Team Members:
 
 2. Our communication with our client was not great as the owner Louis Lee left to go to Korea in the beginning of our project. We talked to him mainly about costs and finances and it seemed as if he did not want to put money into a website right now and was fine with our group creating a wireframe for them to use in the future. We had better communication with Johnathon Miller the manager at Tiger Sushi as Brandon was able to talk to him in person frequently. We gathered information from him about features and pictures for the project as well as whether or not they would actually implement the website. Jonathan explained what features would be best for the website. However, he did not send pictures as he did not have them and when he would ask Louis for the pictures Louis would not respond. This led us to working around that and gathering pictures from instagram as well as from Brandon when he would work.
 
+   <img width="627" alt="Screenshot 2025-04-26 at 1 19 54 PM" src="https://github.com/user-attachments/assets/fc6f5951-bc3b-4dd6-bbb7-73b581359388" />
    
 
 6. # **Project Administration (Risk, Issue, and change logs)** {#project-administration-(risk,-issue,-and-change-logs)}
 
 1. For this project, we are operating under a few assumptions. First, Tiger Sushi requires only a wireframe and not a full website. Second, that the timeline will be as scheduled, and lastly, that the budget will remain the same throughout the project. Along with these assumptions, four main risks have been identified: scope creep, misalignment with client expectations, lack of access to necessary materials and information, and the company going out of business.   
-   ![][image2]  
+
+<img width="561" alt="Screenshot 2025-04-26 at 1 20 04 PM" src="https://github.com/user-attachments/assets/5908fd8a-4169-41c4-a5b2-37b3d6f4f707" />
+
      
 2. For change management, we have implemented a plan to address any changes that may be requested. These changes could be from the sponsor or any of any team member. The plan first starts off with a discussion between the team members, then it will be shown to the sponsor for approval and feedback. After the change has been approved, then it will be recorded in the change log to document what the change is, who has it been required by, and the time and cost impact. This ensures all changes are tracked in a transparent and controlled manner.  
-   ![][image3]
+
+<img width="636" alt="Screenshot 2025-04-26 at 1 20 14 PM" src="https://github.com/user-attachments/assets/f8e5d86e-d3a9-4fbb-b3ec-1bf4f526baf9" />
+
 
 3. For issue management, our team makes sure to handle any promise that arises throughout the course of our project. We first log the issue and ensure that all team members are aware of the situation. Details such as the description of the issue, date it is reported, resolution status, etc. are all collected. The issue will be monitored and if it continues to impact communication or deadlines, the team will escalate the concern and work towards a solution to ensure the project remains on track.   
    
-
-**![][image4]**
+<img width="633" alt="Screenshot 2025-04-26 at 1 20 21 PM" src="https://github.com/user-attachments/assets/74af6e47-e097-4987-bb2b-5f415bf8c1ae" />
 
 4. **Quality Issues and how you will manage quality**  
    1. Quality requirements for your major deliverables  
